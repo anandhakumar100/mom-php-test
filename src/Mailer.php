@@ -2,7 +2,7 @@
 
 namespace Magento;
 
-require '././vendor/autoload.php';
+require '../vendor/autoload.php';
 require 'email_config.php';
 
 use PHPMailer\PHPMailer\PHPMailer;
